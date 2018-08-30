@@ -8,15 +8,19 @@ While I mostly focused on linux, you can get some good crackmes for windows from
 
 ### Contents
 * re.pdf
+    
     presentation slides
 * crackmes
+    
     Some crackmes to try reversing
     None of these are mine, see above.
 * codes
+    
     Folder with c code compiled for 32 and 64 bit
     You can add any c files to this directory and use make to compile for both
     This was mostly for looking at the difference between 32 and 64 bit function calling conventions, but I ended up using the same directory and makefile for other examples
 * anti
+    
     Examples of techniques to try to make reversing harder
     These should line up with the slides, the name of the binary is in parentheses in the slide title.
     See the Makefile for the compiler flags used for each source
