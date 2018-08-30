@@ -1,6 +1,6 @@
 # Reversing
 
-These are the slides and supporting materials I used for a couple of presentations on basics of reverse engineering. I am not sure how useful this would be without the presentation (which wasn't recorded). But I will put it here in case it is. I'd like to thank Leeky, C_Sto, kronicd and curryhacker for providing feedback on my slides as well as dtm for making NoREPls and \_py for collecting the crackmes in the crackmes subdirectory.
+These are the slides and supporting materials I used for a couple of presentations on basics of reverse engineering. I am not sure how useful this would be without the presentation (which wasn't recorded). But I will put it here in case it is. I'd like to thank Leeky, C_Sto, kronicd, curryhacker and dtm for providing feedback on my slides as well as dtm for making NoREPls and \_py for collecting the crackmes in the crackmes subdirectory.
 
 Not all of the binaries in this repo are my own, and so not covered by the license. I obtained the binaries from http://skidophrenia.ctfd.io which no longer exists, but was a nice selection of binaries for beginners. I do not know any more about where these binaries originated other than what is stated in the binary. If you are one of the authors and would like it to be removed or a link given to your site, please contact me (opening an issue should work).
 
