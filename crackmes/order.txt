@@ -1,0 +1,10 @@
+From what I remember when I did them, I think this could be a good order to attempt them in
+
+crackme0x00
+re0x02
+re20
+re0x03
+re50
+re30
+r100
+neophite
