@@ -1,13 +1,13 @@
 CC=gcc
 
-binaries = 1 2 3 stripped static nostrings ptrace sigtrap instructions
+binaries = 1 2 3 fakemain stripped static nostrings ptrace sigtrap instructions
 
 all: $(binaries)
 
 instructions:
 	gcc $@.c -masm=intel -o $@
 
-1 2 3 ptrace sigtrap:
+1 2 3 fakemain ptrace sigtrap:
 	gcc $@.c -o $@
 
 stripped:
